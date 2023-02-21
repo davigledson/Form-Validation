@@ -72,11 +72,11 @@ body {
     border: 3px solid #DB5A5A;
 }
 
-.form-control.error i.img-error {
+.form-control.error i .img-error { /*deixa nome junto para ícone aparecer */
     visibility: visible;
 }
 
-.form-control.success i.img-success {
+.form-control.success i .img-success {
     visibility: visible;
 }
 
